@@ -24,7 +24,7 @@ public class Main {
         System.out.print("Informe a idade do herói: ");
         int idade = scanner.nextInt();
 
-        // Criando o Heói
+        // Criando o Herói
         Hero hero = new Hero(nome, idade, tipo);
 
         System.out.println("*****************************");
